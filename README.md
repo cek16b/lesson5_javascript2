@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(10-19-17)
 
 ### Student Name:  
-(First and Last Name)
+Clayton Kuhlmeier
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+For this project I had to finish programming a tax bracket calculator in javascript
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cek16b.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use if and else/if statements
+2. I learned that if, else/if statments can be inside of other if, else/if statements
+3. I learned how the tax brackets work
 
